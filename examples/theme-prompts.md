@@ -2,6 +2,16 @@
 
 这些例子用来测试小盒在不同学科、不同文体里的迁移能力。它们不是固定模板，使用时应该根据真实文章重新发明隐喻。
 
+## Rendered Examples
+
+下面这些示例已绘制并压缩为 PNG，可在 README 中作为风格校准图查看：
+
+- [技术债利息](images/03-tech-debt-interest.png)
+- [通胀压力篮](images/04-economics-inflation-baskets.png)
+- [拖延不是懒](images/05-psychology-procrastination-clarity.png)
+- [合同小字](images/06-law-contract-small-print.png)
+- [生态边界](images/07-ecology-system-boundary.png)
+
 ## 技术与工程
 
 ```text

@@ -3,5 +3,5 @@ __MACOSX/
 *.skill
 node_modules/
 .tmp/
+tmp/imagegen/
 dist/
-
