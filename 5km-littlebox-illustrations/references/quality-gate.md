@@ -9,6 +9,7 @@
 - Littlebox is closed. No open, half-open, raised-flap, cutaway, or visible-interior state appears.
 - Eyes are on the front panel and legs attach under the front panel.
 - When Littlebox acts on a prop, two small twig arms emerge from the side seams, or one side-seam arm is naturally hidden by perspective.
+- Littlebox has no more than two arms total: one possible left side-seam twig arm and one possible right side-seam twig arm.
 - Body is white or near-white, not tan/brown/beige cardboard.
 - Outlines are thick, rough, dry-brush marker lines, not thin vector strokes.
 - Linework and labels match the same rough hand-drawn marker style across the image set.
@@ -34,6 +35,7 @@ Regenerate or edit if:
 
 - Littlebox is passive or removable.
 - side-seam twig arms are missing in an action scene.
+- Littlebox has three or more arms, a lower spare arm, a tail-like helper line attached to the body, or any extra limb-like stroke connected to the box.
 - arms emerge from the face, lid, eyes, or prop instead of the side seams.
 - arms become thick, gloved, fingered, sleeved, or cute mascot hands.
 - the tape jumps to a side wall, front face, random prop, or unrelated flap.
@@ -74,6 +76,7 @@ Regenerate or edit if:
 - State wrong: regenerate with closed-only Littlebox; do not accept open, half-open, raised-flap, or cutaway boxes.
 - Tape wrong: regenerate with explicit jagged front-tab seam-tape wording; do not accept a good concept if the IP identity is broken.
 - Arms wrong: regenerate with explicit side-seam twig-arm wording; do not accept mascot hands.
+- Arm count wrong: regenerate with exactly two possible side-seam twig arms total; route extra categories through external props instead of extra limbs.
 - Style drift: regenerate with rough hand-drawn marker labels and dry-brush linework; do not repair final labels with clean digital fonts.
 - Body stretched: move the action into a separate prop and keep Littlebox compact.
 - Flow too diagrammatic: replace black arrows with one loose amber motion path.

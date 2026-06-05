@@ -21,10 +21,12 @@ Littlebox can be a light paper box or a sturdier carton, but final article illus
 ## Canonical Arm Rule
 
 - Default to two small side-seam twig arms when Littlebox handles, carries, pushes, catches, points at, or holds anything.
+- Littlebox has **at most two arms total**: one left side-seam twig arm and one right side-seam twig arm. Never draw a third arm, lower arm, spare arm, tail-like helper line, or extra black limb attached to the body.
 - Arms are simple single black strokes, thinner than the body outline but with the same wobbly marker texture.
 - Arms emerge around the side seams at mid-height, like little branches from both sides of the box.
 - Arms may curve around a prop or touch it, but do not add hands, gloves, fingers, sleeves, or mitten shapes.
 - If one arm is hidden by perspective or by a prop, keep the visible arm attached to a side seam and avoid front-facing stick arms.
+- If Littlebox needs to sort three or more targets, only two arms may touch objects. Route the remaining targets with external trays, slots, amber paths, falling tags, or nearby props. Do not solve multi-target actions by adding limbs.
 
 ## Canonical Tape Rule
 
@@ -129,6 +131,7 @@ Regenerate or rewrite if:
 
 - Littlebox only stands beside the idea
 - side-seam twig arms are missing in an action scene where Littlebox holds, pushes, carries, catches, or points at something
+- Littlebox has more than two arms, a lower third arm, a tail-like attached action line, or extra limb-like strokes connected to the body
 - arms emerge from the front face, lid, eyes, or prop instead of the side seams
 - arms become thick, gloved, fingered, sleeved, or mascot-like
 - the amber tape appears in a different place from image to image

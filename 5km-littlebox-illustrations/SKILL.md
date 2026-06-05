@@ -2,7 +2,7 @@
 name: 5km-littlebox-illustrations
 description: Create minimalist hand-drawn Littlebox (小盒) article illustrations and illustration plans for essays, posts, blogs, docs, product thinking, workflows, methods, comparisons, abstract concepts, and visual metaphors. Use when the user asks for Littlebox, 小盒, paper-box/carton IP illustrations, article visuals, body illustrations, shot lists, visual metaphor ideas, hand-drawn explainers, or regeneration/editing of this style. Default to 16:9 sparse marker illustrations with Littlebox as the active conceptual operator, using a closed-only box IP, balanced pale sky-blue or pale lavender backgrounds, black chunky strokes, side-seam twig arms, jagged amber tape/path accents, and coral warning/stamp accents. Supports multilingual users by writing prompts in English while keeping visible labels in the user's language.
 metadata:
-  version: "1.5.0"
+  version: "1.6.0"
 ---
 
 # 5km Littlebox Illustrations
@@ -57,6 +57,7 @@ For each image:
 - use one core idea only
 - make Littlebox perform the central action
 - keep Littlebox closed in every final image; express intake, sorting, filtering, and transformation with external slips, stacks, paths, stamps, props, and side-seam twig arms
+- keep Littlebox anatomically canonical: exactly two possible twig arms total, one from each side seam; never add a third arm to handle extra categories
 - choose or preserve the assigned background from the planning step: pale sky blue `#E3F2FD` or pale lavender `#E6E6FA`
 - keep 3-5 supporting elements total
 - use short visible labels in the user's language
