@@ -1,0 +1,7 @@
+.DS_Store
+__MACOSX/
+*.skill
+node_modules/
+.tmp/
+dist/
+
