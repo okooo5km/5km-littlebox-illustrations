@@ -6,14 +6,14 @@ Littlebox (小盒) is a recurring paper-box character for article illustrations.
 
 ## Core Form
 
-- Simple paper box body with thick black marker outline.
-- Littlebox body is white or near-white negative space on the selected pale background. Do not fill the body with tan, kraft cardboard brown, beige, or shaded material color.
+- Simple paper box body with a moderately bold black marker outline, slightly slimmer than the old chunky style.
+- Littlebox body is white or near-white negative space on the selected flat background. On the default white background, its black outline defines the body without a fill contrast. Do not fill the body with tan, kraft cardboard brown, beige, or shaded material color.
 - Default view is **front-left three-quarter view**: the front panel is the largest visible face, one side panel is visible, and the closed top lid is visible.
 - Two small dot eyes always sit on the front panel, horizontally centered, never on a side panel, lid, object, or label.
 - Tiny thin legs always attach under the front panel.
 - Two small twig arms are the default action limbs. They are short thin black curved branches emerging from the left and right side seams, never from the front face, lid, eyes, or props.
 - Slight dents, imperfect perspective, and handmade wobble are allowed, but the box must remain the same character.
-- Lines must be fat-marker, rough, slightly wobbly, and visibly hand-drawn. Avoid ruler-straight vector edges.
+- Lines must be confident marker strokes with a clear primary/secondary weight hierarchy, rough, slightly wobbly, and visibly hand-drawn. Avoid both hairline pen work and ruler-straight vector edges.
 - Calm, deadpan, serious expression. No mouth, eyebrows, smile, blush, or exaggerated cartoon face.
 
 Littlebox can be a light paper box or a sturdier carton, but final article illustrations keep it closed.
@@ -123,7 +123,7 @@ Use Littlebox to:
 - sort, fold, compress, bundle
 - bridge, block, route, redirect
 - hide, reveal, store, deliver
-- spill, overflow, recover, repair
+- brace an external spill, contain an external overflow, recover, repair
 
 ## Failure Modes
 
@@ -148,7 +148,7 @@ Regenerate or rewrite if:
 - it looks like a delivery-company icon
 - it looks like a clean vector logistics box
 - it becomes tan/brown realistic cardboard
-- the outline is thin, smooth, or ruler-straight
+- the outline is hairline-thin, uniformly heavy, smooth, or ruler-straight
 - linework looks auto-traced, thresholded, posterized, or digitally cleaned instead of hand-drawn marker
 - it becomes a smiling cute box mascot
 - it has expressive cartoon facial features

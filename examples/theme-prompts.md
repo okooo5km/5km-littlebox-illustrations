@@ -4,17 +4,17 @@
 
 ## Rendered Examples
 
-下面这些示例已绘制并压缩为 PNG，可在 README 中作为风格校准图查看：
+下面这些示例已重新绘制，并由 Zipic 转换压缩为 JPEG，可在 README 中作为风格校准图查看：
 
-- [技术债利息](images/01-tech-debt-interest.png)
-- [通胀压力篮](images/02-economics-inflation-baskets.png)
-- [拖延不是懒](images/03-psychology-procrastination-clarity.png)
-- [合同小字](images/04-law-contract-small-print.png)
-- [生态边界](images/05-ecology-system-boundary.png)
-- [家庭开销漏点](images/06-household-spending-leaks.png)
-- [症状搜索别下结论](images/07-health-search-maybe.png)
-- [育儿建议筛选](images/08-parenting-advice-filter.png)
-- [通勤吞掉生活](images/09-commute-eats-life.png)
+- [技术债利息](images/01-tech-debt-interest.jpeg)
+- [通胀压力篮](images/02-economics-inflation-baskets.jpeg)
+- [拖延不是懒](images/03-psychology-procrastination-clarity.jpeg)
+- [合同小字](images/04-law-contract-small-print.jpeg)
+- [生态边界](images/05-ecology-system-boundary.jpeg)
+- [家庭开销漏点](images/06-household-spending-leaks.jpeg)
+- [症状搜索别下结论](images/07-health-search-maybe.jpeg)
+- [育儿建议筛选](images/08-parenting-advice-filter.jpeg)
+- [通勤吞掉生活](images/09-commute-eats-life.jpeg)
 
 ## 技术与工程
 

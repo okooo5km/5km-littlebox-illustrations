@@ -13,7 +13,7 @@ Create a 5-image shot list for this article. Pick only the strongest cognitive a
 
 ```text
 Use $5km-littlebox-illustrations to generate 4 Littlebox article illustrations for this post.
-Keep them 16:9, balanced pale sky-blue / pale lavender backgrounds, chunky black marker, sparse amber/coral accents, and short Chinese labels.
+Keep them 16:9 on the default pure-white background, with moderately bold black marker and lighter secondary strokes, restrained amber/coral accents, coordinated non-linear compositions, and short Chinese labels. Use another background only when explicitly requested.
 
 <paste post>
 ```

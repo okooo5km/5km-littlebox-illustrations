@@ -1,4 +1,4 @@
 interface:
   display_name: "5km Littlebox Illustrations"
   short_description: "Closed-only hand-drawn Littlebox article illustrations"
-  default_prompt: "Use $5km-littlebox-illustrations to create a concise shot list and generate closed-only Littlebox article illustrations with balanced pale backgrounds."
+  default_prompt: "Use $5km-littlebox-illustrations to create a content-first shot list and generate closed-only Littlebox article illustrations on pure white with coordinated non-linear compositions."

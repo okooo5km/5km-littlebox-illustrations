@@ -3,7 +3,7 @@
 ## Pass Criteria
 
 - 16:9 horizontal image unless the user asked otherwise.
-- Background is either pale sky blue `#E3F2FD` or pale lavender `#E6E6FA`, clean and flat.
+- Background is clean and flat: pure white `#FFFFFF` by default, or the exact color explicitly requested by the user.
 - Littlebox appears and is recognizable.
 - Littlebox uses the canonical front-left three-quarter model unless a user explicitly asked for another angle.
 - Littlebox is closed. No open, half-open, raised-flap, cutaway, or visible-interior state appears.
@@ -11,7 +11,8 @@
 - When Littlebox acts on a prop, two small twig arms emerge from the side seams, or one side-seam arm is naturally hidden by perspective.
 - Littlebox has no more than two arms total: one possible left side-seam twig arm and one possible right side-seam twig arm.
 - Body is white or near-white, not tan/brown/beige cardboard.
-- Outlines are thick, rough, dry-brush marker lines, not thin vector strokes.
+- Outlines are moderately bold, rough, dry-brush marker lines: slightly slimmer than the old chunky style, never hairline or clean-vector.
+- Line weight has hierarchy: primary outlines are strongest, supporting props and labels lighter, arms and motion details lightest.
 - Linework and labels match the same rough hand-drawn marker style across the image set.
 - Body remains compact and squat; action does not stretch the box into another object.
 - Amber identity tape is in the correct state-specific place.
@@ -20,14 +21,16 @@
 - The tape is narrow and does not cover a full flap.
 - Littlebox is the active operator of the concept.
 - The image has one core idea.
-- Main subject occupies about 35%-55% of the canvas.
-- Elements are distributed across both axes.
+- Main subject occupies about 30%-45% of the canvas.
+- Visual mass is coordinated across both axes and roughly 3-5 zones, with deliberate counterweights.
+- The composition is not a default left-to-right row; linear sequencing appears only when chronology or causality requires it.
+- Every element needed to understand the core idea is present; simplification has removed repetition, not meaning.
 - There are 3-6 short visible labels, or fewer when label accuracy is fragile.
 - Labels look handwritten with a rough marker, not typed with a clean digital font.
 - Amber is limited to tape, paths, motion, or useful flow.
 - Flow arrows/paths are amber and lighter than the black character outline.
 - Coral is limited to warning, stamp, result, or decisive emphasis.
-- The image feels hand-drawn, sparse, clever, and a bit strange.
+- The image feels hand-drawn, coordinated, clever, and a bit strange.
 
 ## Fail Signals
 
@@ -49,7 +52,7 @@ Regenerate or edit if:
 - the eyes are on the side, lid, or another object.
 - the character angle changes so much that the front panel identity disappears.
 - the body is tan, brown, beige, or realistically shaded like cardboard.
-- the linework is thin, smooth, geometric, or clean-vector.
+- the linework is hairline-thin, uniformly heavy, smooth, geometric, or clean-vector.
 - linework looks auto-traced, thresholded, posterized, or digitally cleaned.
 - labels use clean sans-serif, bold poster type, vector text, calligraphy fonts, or pasted-on typography.
 - one image in a set has noticeably different stroke roughness, label style, or Littlebox proportions from the rest of the set.
@@ -58,18 +61,20 @@ Regenerate or edit if:
 - The result looks like a logistics logo or package-delivery mascot.
 - The box is glossy, 3D, realistic, or shaded.
 - The expression is cute, smiling, or cartoonish.
-- The image becomes a formal process chart.
-- Too many nodes, arrows, labels, or panels appear.
+- The image becomes a formal process chart or places all meaningful elements on one horizontal rail.
+- Nodes, arrows, labels, or panels compete without a clear hierarchy.
+- Necessary context was removed only to satisfy a fixed object count or whitespace quota.
 - Labels are long, mistranslated, or unreadable.
 - The background has texture, gradients, shadows, or scenic detail.
-- A multi-image set uses one background color too heavily without a thematic reason.
+- The background ignores the user's requested color, or varies across a set without being asked.
 - Accent colors dominate the black marker drawing.
 - The composition relies on opening the box instead of external props and side-seam twig-arm action.
 
 ## Iteration Moves
 
 - Too ordinary: choose a more physical box action.
-- Too complex: delete objects until only Littlebox plus 2-4 supports remain.
+- Too complex: group related details, strengthen hierarchy, and delete repetition before deleting meaning.
+- Too linear: recompose into orbit, diagonal tension, triangular balance, staggered clusters, or asymmetric counterweight; vary heights and scale.
 - Too cute: emphasize deadpan expression, dot eyes, no smile, no costume.
 - Too diagrammatic: make one action larger and loosen alignment.
 - Text wrong: reduce label count and quote exact labels.
